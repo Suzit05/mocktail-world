@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Mojito",
+        "image": "https://images.unsplash.com/photo-1517620517090-ab7f8eacbfd8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9qaXRvfGVufDB8fDB8fHww",
+        "recipe": {
+            "ingredients": [
+                "White rum (2 oz)",
+                "Lime juice (1/2 oz)",
+                "Sugar (2 tsp)",
+                "Mint leaves (6 fresh)",
+                "Soda water",
+                "Ice cubes"
+            ],
+            "steps": [
+                "Muddle mint leaves and sugar in a glass.",
+                "Add lime juice and white rum.",
+                "Fill the glass with ice cubes.",
+                "Top with soda water and stir gently.",
+                "Garnish with a mint sprig."
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Margarita",
+        "image": "https://images.unsplash.com/photo-1678862656501-9bd5d0bf6de1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFyZ2FyaXRhfGVufDB8fDB8fHww",
+        "recipe": {
+            "ingredients": [
+                "Tequila (2 oz)",
+                "Lime juice (1 oz)",
+                "Triple sec (1 oz)",
+                "Salt",
+                "Ice cubes"
+            ],
+            "steps": [
+                "Rub a lime wedge around the rim of a glass and dip it in salt.",
+                "Combine tequila, lime juice, and triple sec in a shaker with ice.",
+                "Shake well and strain into the prepared glass.",
+                "Serve with a lime slice."
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Piña Colada",
+        "image": "https://images.unsplash.com/photo-1681102523359-2cb988cbb37d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGluYSUyMGNvbGFkYXxlbnwwfHwwfHx8MA%3D%3D",
+        "recipe": {
+            "ingredients": [
+                "White rum (2 oz)",
+                "Coconut cream (1 oz)",
+                "Pineapple juice (3 oz)",
+                "Ice cubes",
+                "Pineapple wedge (for garnish)"
+            ],
+            "steps": [
+                "Combine white rum, coconut cream, and pineapple juice in a blender.",
+                "Add ice cubes and blend until smooth.",
+                "Pour into a chilled glass.",
+                "Garnish with a pineapple wedge."
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Old Fashioned",
+        "image": "https://plus.unsplash.com/premium_photo-1679397829695-f40ae20325bd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1vY2t0YWlsc3xlbnwwfHwwfHx8MA%3D%3D",
+        "recipe": {
+            "ingredients": [
+                "Bourbon or rye whiskey (2 oz)",
+                "Sugar cube (1)",
+                "Angostura bitters (2 dashes)",
+                "Orange peel",
+                "Ice cubes"
+            ],
+            "steps": [
+                "Place the sugar cube in a glass and add bitters.",
+                "Muddle until the sugar dissolves.",
+                "Add whiskey and ice cubes, then stir gently.",
+                "Garnish with an orange peel."
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "Cosmopolitan",
+        "image": "https://images.unsplash.com/photo-1661965764478-2b081d27db3a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vY2t0YWlsc3xlbnwwfHwwfHx8MA%3D%3D",
+        "recipe": {
+            "ingredients": [
+                "Vodka (1 1/2 oz)",
+                "Cranberry juice (1 oz)",
+                "Triple sec (1/2 oz)",
+                "Lime juice (1/2 oz)",
+                "Ice cubes",
+                "Lime wheel (for garnish)"
+            ],
+            "steps": [
+                "Combine vodka, cranberry juice, triple sec, and lime juice in a shaker with ice.",
+                "Shake well and strain into a chilled martini glass.",
+                "Garnish with a lime wheel."
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "name": "Whiskey Sour",
+        "image": "https://plus.unsplash.com/premium_photo-1694994137835-196def6d9aa9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2hpc2tleSUyMG1vY2t0YWlsfGVufDB8fDB8fHww",
+        "recipe": {
+            "ingredients": [
+                "Bourbon (2 oz)",
+                "Lemon juice (3/4 oz)",
+                "Simple syrup (1/2 oz)",
+                "Ice cubes",
+                "Cherry (for garnish)"
+            ],
+            "steps": [
+                "Combine bourbon, lemon juice, and simple syrup in a shaker with ice.",
+                "Shake well and strain into a glass with ice.",
+                "Garnish with a cherry."
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "Daiquiri",
+        "image": "https://images.unsplash.com/photo-1541288892379-c987c60cd049?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFpcXVpcml8ZW58MHx8MHx8fDA%3D",
+        "recipe": {
+            "ingredients": [
+                "White rum (2 oz)",
+                "Lime juice (1 oz)",
+                "Simple syrup (1/2 oz)",
+                "Ice cubes"
+            ],
+            "steps": [
+                "Combine white rum, lime juice, and simple syrup in a shaker with ice.",
+                "Shake well and strain into a chilled glass.",
+                "Serve immediately."
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "name": "Bloody Mary",
+        "image": "https://plus.unsplash.com/premium_photo-1714207621554-e07fd828893b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ymxvb2R5JTIwbWFyeXxlbnwwfHwwfHx8MA%3D%3D",
+        "recipe": {
+            "ingredients": [
+                "Vodka (1 1/2 oz)",
+                "Tomato juice (3 oz)",
+                "Lemon juice (1/2 oz)",
+                "Worcestershire sauce (dash)",
+                "Hot sauce (dash)",
+                "Salt and pepper",
+                "Celery stick (for garnish)"
+            ],
+            "steps": [
+                "Combine vodka, tomato juice, lemon juice, Worcestershire sauce, hot sauce, salt, and pepper in a glass with ice.",
+                "Stir well.",
+                "Garnish with a celery stick."
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "name": "Express lick",
+        "image": "https://images.unsplash.com/photo-1671053808421-c3a72637ef6a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGdpbiUyMGFuZCUyMHRvbmljfGVufDB8fDB8fHww",
+        "recipe": {
+            "ingredients": [
+                "White rum (1 oz)",
+                "Dark rum (1 oz)",
+                "Orange curaçao (1/2 oz)",
+                "Lime juice (1/2 oz)",
+                "Orgeat syrup (1/4 oz)",
+                "Ice cubes",
+                "Mint sprig (for garnish)"
+            ],
+            "steps": [
+                "Combine white rum, dark rum, orange curaçao, lime juice, and orgeat syrup in a shaker with ice.",
+                "Shake well and strain into a glass with ice.",
+                "Garnish with a mint sprig."
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "name": "Mai Tai",
+        "image": "https://images.unsplash.com/photo-1648757997020-94e698e36e55?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFpJTIwdGFpfGVufDB8fDB8fHww",
+        "recipe": {
+            "ingredients": [
+                "1 oz white rum",
+                "1 oz dark rum",
+                "1/2 oz orange curaçao",
+                "1/2 oz lime juice",
+                "1/4 oz orgeat syrup",
+                "Ice cubes",
+                "Mint sprig (for garnish)"
+            ],
+            "steps": [
+                "Combine white rum, dark rum, orange curaçao, lime juice, and orgeat syrup in a shaker with ice.",
+                "Shake well and strain into a glass with ice.",
+                "Garnish with a mint sprig."
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "name": "Gin and Tonic",
+        "image": "https://plus.unsplash.com/premium_photo-1668771899398-1cdd763f745e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2luJTIwYW5kJTIwdG9uaWN8ZW58MHx8MHx8fDA%3D",
+        "recipe": {
+            "ingredients": [
+                "2 oz gin",
+                "4 oz tonic water",
+                "Ice cubes",
+                "Lime wedge (for garnish)"
+            ],
+            "steps": [
+                "Fill a glass with ice cubes.",
+                "Pour gin over the ice, then add tonic water.",
+                "Stir gently and garnish with a lime wedge."
+            ]
+        }
+    }
+]
